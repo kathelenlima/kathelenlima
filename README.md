@@ -6,7 +6,7 @@
 - 👯 Procurando primeira oportunidade no mercado de programação
 ##
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=jolly)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=material-palenight)
 
 ##
 <div style="display: inline_block"><br>
