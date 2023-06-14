@@ -18,10 +18,14 @@
   <img align="center" alt="kat-psql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
           
 </div>
-  ##
 
   <div> 
   <a href = "mailto:kathelenlima13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kathelen-lima-409a92251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kathelenlima_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
