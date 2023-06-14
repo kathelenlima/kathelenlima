@@ -5,9 +5,8 @@
 - 🌱 Estudante de Sistemas de informação
 - 👯 Procurando primeira oportunidade no mercado de programação
 ##
-<div>
+<div align="center">
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=jolly)
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=kathelenlima_icons=true)
 </div>
 
 ##
