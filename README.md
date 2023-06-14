@@ -17,6 +17,8 @@
           
 </div>
   
+  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=dracula)
+  
   ##
   <div> 
   <a href = "mailto:kathelenlima13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
