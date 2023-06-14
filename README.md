@@ -5,7 +5,7 @@
 - 🌱 Estudante de Sistemas de informação
 - 👯 Procurando primeira oportunidade no mercado de programação
 ##
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=jolly)
 
 ##
 <div style="display: inline_block"><br>
@@ -19,11 +19,6 @@
           
 </div>
 ##
-
-<div align="center">
-    ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=kathelenlima_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kathelenlima_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
