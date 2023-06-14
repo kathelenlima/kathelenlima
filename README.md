@@ -4,6 +4,8 @@
 
 - 🌱 Estudante de Sistemas de informação
 - 👯 Procurando primeira oportunidade no mercado de programação
+##
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=dracula)
 
 ##
 <div style="display: inline_block"><br>
@@ -16,10 +18,8 @@
   <img align="center" alt="kat-psql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
           
 </div>
-  
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=dracula)
-  
   ##
+
   <div> 
   <a href = "mailto:kathelenlima13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kathelen-lima-409a92251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
