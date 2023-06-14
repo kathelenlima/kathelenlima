@@ -5,9 +5,8 @@
 - 🌱 Estudante de Sistemas de informação
 - 👯 Procurando primeira oportunidade no mercado de programação
 ##
-<div align="center">
+
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=jolly)
-</div>
 
 ##
 <div style="display: inline_block"><br>
