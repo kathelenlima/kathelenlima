@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudante de Sistemas de informação
-- 👯 Procurando primeira oportunidade no mercado de tecnologia da informação
+- 👯 Especializando em Dados e Desenvolvimento de Software
 ##
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelenlima&layout=compact&theme=material-palenight)
